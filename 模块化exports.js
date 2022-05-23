@@ -1,0 +1,1 @@
+console.log('被require的js文件中的代码被执行了');
